@@ -25,7 +25,7 @@ Remainder was done on HTML
 
 ## Support and contact details
 
-If you have any issues or questions you can contac me at demahom93@gmail.com
+If you have any issues or questions you can contac me at samkemoi8507@gmail.com
 
 ### License
 
