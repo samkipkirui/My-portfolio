@@ -1,6 +1,6 @@
 # Portfolio
 
-## My Portfolio (https://github.com/samkipkirui/Portfolio.git)
+## My Portfolio (https://samkipkirui.github.io/My-portfolio/)
 
 #### Website Containing my previous work, {08 Feb 2020}
 
